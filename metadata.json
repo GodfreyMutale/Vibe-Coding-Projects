@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Scanner",
+  "description": "Scans Gmail for meeting proposals and conversational events, saving them in IndexedDB and syncing to Google Calendar with reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
